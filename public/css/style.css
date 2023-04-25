@@ -1,0 +1,36 @@
+
+.navbar{
+	background-color: rgb(30, 40, 31);
+	height: 50px;
+	display: flex;	
+	flex-direction: row;
+	justify-content: space-between;
+	margin: 0px;
+	align-items: center;}
+
+.navbar ul li{
+	list-style: none;
+}
+.logo{
+	align-content: left;
+	height: 20px;
+	width: 100px;
+}
+
+.container{
+	display: flex;
+	justify-content: space-between;
+	height: 400px;
+}
+.container2 div{
+	height: 200px;
+
+}
+.footer{
+	background-color: gray;
+	font-size: medium;
+}
+
+h1{
+	text-align: center;
+}
